@@ -16,4 +16,6 @@ Ensure you have the following installed:
 
 2. Install react
    
-```npx create-react-app mernapp   
+```
+   npx create-react-app mernapp
+```
